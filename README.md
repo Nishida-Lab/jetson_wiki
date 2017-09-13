@@ -1,5 +1,7 @@
 # jetson_wiki
 Information about Jetson by Nvidia
+Jetson TX1を導入した際の備忘録
+詳しくは(Wikiページ)[https://github.com/Nishida-Lab/jetson_wiki/wiki]へ
 
 # 参考にしたサイト
 <dl>
